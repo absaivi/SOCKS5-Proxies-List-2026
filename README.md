@@ -18,7 +18,7 @@
 
 Due to daily updates and frequent IP changes, we host the complete proxy list externally.
 
-👉 **[Download Proxy List](https://your-site.com)**
+👉 **[Download Proxy List](https://sites.google.com/view/fresh-socks5/home)**
 
 The download is protected with a simple security check to prevent bots.
 
